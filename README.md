@@ -49,11 +49,11 @@
 
 ## 📈 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthana-telaprolu&show_icons=true&locale=en&layout=compact" alt="keerthana-telaprolu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TelaproluKeerthana&show_icons=true&locale=en&layout=compact" alt="keerthana-telaprolu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthana-telaprolu&show_icons=true&locale=en" alt="keerthana-telaprolu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TelaproluKeerthana&show_icons=true&locale=en" alt="keerthana-telaprolu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-telaprolu&" alt="keerthana-telaprolu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TelaproluKeerthana&" alt="keerthana-telaprolu" /></p>
 
 ---
 
