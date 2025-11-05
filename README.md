@@ -53,7 +53,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TelaproluKeerthana&show_icons=true&locale=en" alt="keerthana-telaprolu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TelaproluKeerthana"& alt="keerthana-telaprolu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TelaproluKeerthana&" alt="keerthana-telaprolu" /></p>
 
 ---
 
